@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1Travis1
-- 👀 I’m interested in ... program
-- 🌱 I’m currently learning ... V. P. Ivannikov Institute of System Programming of the Russian Academy of Sciences 
-- 💞️ I’m looking to collaborate on ... program
+- 👀 I’m interested in ... Java
+- 🌱 I’m currently learning ... C++ 
+- 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ...Telegram r_kebez
 
 <!---
